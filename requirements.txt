@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+vaderSentiment
+google-api-python-client
+python-dotenv
+yt-dlp

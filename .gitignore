@@ -1,0 +1,5 @@
+.env
+data/
+figures/
+*.bak
+.ipynb_checkpoints/
